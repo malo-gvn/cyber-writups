@@ -1,21 +1,20 @@
 # cyber-writeups
 
-Mes solutions et notes de wargames et challenges de cybersécurité.
-Objectif : apprendre les bases de la sécurité offensive, du Linux et du réseau,
-en documentant ma démarche au fil de l'eau.
+My solutions and notes for cybersecurity wargames and challenges.
+Goal: learn the fundamentals of offensive security, Linux and networking,
+while documenting my approach as I go.
 
-> Par souci de fair-play, les mots de passe et flags ne sont pas publiés —
-> seules la méthode et les notions apprises sont documentées.
+> For fair-play reasons, passwords and flags are not published —
+> only the method and the concepts learned are documented.
 
-## Plateformes
+## Platforms
 
 - **OverTheWire — Bandit** → [bandit.md](bandit.md)
-  Bases de la ligne de commande Linux (navigation, recherche, permissions).
+  Linux command-line basics (navigation, searching, permissions).
 
-## En cours
+## In progress
 
-Bandit (niveaux 0 à 7), la suite arrive.
+Bandit (levels 0 to 10), more coming soon.
 
 ---
-*Malo Gourvennec — étudiant ingénieur, en route vers la cybersécurité.*
-
+*Malo Gourvennec — engineering student, on my way into cybersecurity.*
