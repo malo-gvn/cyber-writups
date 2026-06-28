@@ -118,5 +118,14 @@ Appris: commande `base64``
 
 
 ## Niveau 11 -> 12
-But: 
+But: manipuler et effectuer des rotations de caractères
+
+Méthode: utiliser la commande `tr`(translate) qui permet d'effectuer ce genre de manipulations
+
+Solution: `cat data.txt | tr 'a-zA-Z' 'n-za-mN-ZA-M'`, le `|` permet de donner du texte en entrée à la commande `tr` (qui ne supporte que ce type d'entrée), puis on effectue le décalage "manuellement" en écrivant la chaîne de caractère de départ; `'a-zA-Z'` (les lettres de l'alphabet en majuscule et en minuscule), puis la transformation de cette chaîne de caractère désirée, c'est-à-dire avec une rotation de 13 caractères; `'n-za-mN-ZA-M'`.
+
+Appris: commande `tr` et son fonctionnement.
+
+
+## Niveau 12 -> 13
 
